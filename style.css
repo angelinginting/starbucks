@@ -61,30 +61,30 @@ header ul li a
     justify-content: space-between;
     align-items: center;
 }
-.content .textBox
+.content .lead-text
 {
     position: relative;
      max-width: 600px;     
 }
-.content .textBox h2 
+.content .lead-text h2 
 {
     color: #333333;
     font-size: 4em;
     line-height: 1.4em;
     font-weight: 500;
 }
-.content .textBox span
+.content .lead-text span
 {
     color: #017143;
     font-size: 1.2em;
     font-weight: 900;
 
 } 
-.content .textBox p
+.content .lead-text p
 {
     color: #333333;
 }
-.content .textBox  a
+.content .lead-text  a
 {
     display: inline-block;
     margin-top: 20px;
@@ -127,7 +127,7 @@ header ul li a
 }
 .thumb li:hover
 {
-    transform: translateY(-15px);
+    transform: translateY(-20px);
 }
 .thumb li img
 {
